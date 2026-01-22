@@ -1,2 +1,2 @@
 # Resource-Pack-Guide
-The untimate guide to resource pack development
+The ultimate guide to resource pack development
